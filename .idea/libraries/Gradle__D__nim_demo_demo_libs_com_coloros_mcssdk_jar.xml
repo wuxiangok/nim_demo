@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./nim_demo/demo/libs/com.coloros.mcssdk.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/libs/com.coloros.mcssdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

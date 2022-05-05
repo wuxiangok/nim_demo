@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./nim_demo/uikit/libs/java-json.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/uikit/libs/java-json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

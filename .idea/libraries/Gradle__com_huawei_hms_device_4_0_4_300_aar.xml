@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:device:4.0.4.300@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/device-4.0.4.300.aar/a15ef1e68c3fccbaeda42dfa43a227e9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/device-4.0.4.300.aar/a15ef1e68c3fccbaeda42dfa43a227e9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
